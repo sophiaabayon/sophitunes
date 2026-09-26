@@ -1,9 +1,5 @@
-// Navbar shows the logo and the buttons used to switch
-// between the four sections of the app (Home, Songs,
-// Favorites, Recently Played).
-//
-// It receives the current page and a function to change it
-// as props from App.jsx - it doesn't hold its own state.
+// Navbar shows the logo and the buttons used to switch between the four sections of the app (Home, Songs, Favorites, Recently Played).
+// It receives the current page and a function to change it as props from App.jsx - it doesn't hold its own state.
 
 function Navbar({ currentPage, onNavigate }) {
   const navItems = [

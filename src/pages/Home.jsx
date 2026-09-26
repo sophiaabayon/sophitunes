@@ -22,7 +22,7 @@ function Home({ songs, playCounts, favorites, recentlyPlayedIds, currentSongId, 
   return (
     <div className="page home-page">
       <section className="welcome-banner">
-        <h1 className="welcome-title">Welcome back to SophiTunes! 🎀</h1>
+        <h1 className="welcome-title">Welcome to SophiTunes! 🎀</h1>
         <p className="welcome-subtitle">Your cute little corner of the internet for music.</p>
       </section>
 
