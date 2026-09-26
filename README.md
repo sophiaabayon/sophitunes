@@ -86,6 +86,8 @@ song does.
 
 ## Project file structure
 
+```
+
 sophitunes/
 ├── public/
 │   ├── music/          <- song1.mp3 through song5.mp3
@@ -100,3 +102,4 @@ sophitunes/
 │   └── main.jsx
 ├── package.json
 └── README.md
+```
